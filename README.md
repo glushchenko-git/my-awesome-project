@@ -4,4 +4,5 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://ВАШ_ЛОГИН.github.io/ИМЯ_РЕПОЗИТОРИЯ/)ssh -T git@github.com
+- [Публичная страница на GitHub Pages]
+ https://glushchenko-git.github.io/my-awesome-project/
